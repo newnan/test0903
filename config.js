@@ -1,7 +1,7 @@
 var config = {
     style: 'mapbox://styles/branigan/cjz37rcb003ib1cr3s8rnkt2d',
     accessToken: 'pk.eyJ1IjoibmV3bmFuIiwiYSI6ImNrdDM1a2ZxMDBiYXUydm1qb2ZybGF6cWEifQ.u6qmMWphGinfoEJxw025Qg',
-    showMarkers: false,
+    showMarkers: true,
     theme: 'dark',
     use3dTerrain: true,
     title: 'Glaciers of Glacier National Park',
